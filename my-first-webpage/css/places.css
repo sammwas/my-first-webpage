@@ -1,0 +1,21 @@
+p{
+  color: #8042f4;
+  text-align: justify;
+  line-height: inherit;
+  font-size: 56px;
+}
+
+li{
+  font-style: normal;
+  font-family: monospace;
+  font-weight: 500;
+  align-items: center;
+  font-size: 16px;
+
+}
+
+img{
+  display: block;
+  margin: auto;
+  width: auto;
+}
